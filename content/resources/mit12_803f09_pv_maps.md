@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Tutorial on isentropic potential vorticity maps.
-file: /ol-ocw-studio-app/courses/12-803-quasi-balanced-circulations-in-oceans-and-atmospheres-fall-2009/7b592ecbdd494e2a4d9ab979645bc978_MIT12_803F09_PV_maps.pdf
+file: /courses/12-803-quasi-balanced-circulations-in-oceans-and-atmospheres-fall-2009/7b592ecbdd494e2a4d9ab979645bc978_MIT12_803F09_PV_maps.pdf
 file_size: 1194862
 file_type: application/pdf
 learning_resource_types: []
